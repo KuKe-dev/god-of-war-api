@@ -1,0 +1,17 @@
+.button {
+    color: rgba(181, 189, 202, 0.622);
+    background: none;
+    outline: none;
+    border: 1px solid var(--gold);
+    padding: 5px 10px;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+}
+.button:hover {
+    color: var(--gold);
+}
+
+.active {
+    background-color: rgb(var(--gold-c) / 0.4);
+    color: var(--gold);
+}

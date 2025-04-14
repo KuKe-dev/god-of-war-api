@@ -1,0 +1,126 @@
+@font-face {
+    font-family: 'GowFont';
+    src: url('../../public/GODOFWAR.TTF');
+}
+:root {
+    /** Color palette */
+    --deep-purple:rgb(26 31 44);
+    --gold:rgb(212, 204, 55);
+    --red:rgb(239 68 68);
+    --white: rgb(255 255 255);
+
+    --deep-purple-c:26 31 44;
+    --gold-c:212 175 55;
+    --red-c:239 68 68;
+    --white-c: 255 255 255;
+    
+}
+
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: var(--deep-purple);
+    color: var(--white);
+    overflow-x: hidden;
+}
+
+/** Headings */
+h1 {
+    font-family: "GowFont", sans-serif;
+    font-size: 3.815rem;
+    text-align: center;
+    color: var(--red);
+    -webkit-text-stroke: 6px rgb(var(--red-c)/0.2);
+}
+h2 {
+    font-family: "GowFont", sans-serif;
+    font-size: 3.052rem;
+    text-align: center;
+    color: var(--red);
+    -webkit-text-stroke: 6px rgb(var(--red-c)/0.2);
+}
+h3 {
+    font-family: "GowFont", sans-serif;
+    font-size: 2.441rem;
+    text-align: center;
+    color: var(--red);
+    -webkit-text-stroke: 6px rgb(var(--red-c)/0.2);
+}
+h4 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    font-size: 1.953rem;
+    text-align: center;
+}
+h5 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    font-size: 1.563rem;
+    text-align: center;
+}
+h6 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 800;
+    font-size: 1.25rem;
+    text-align: center;
+}
+p {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 1rem;
+    text-indent: 1rem;
+    margin: 6px 0;
+}
+small {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 0.8rem;
+    text-indent: 1rem;
+}
+
+.font-gow{
+    font-family: GowFont;
+    font-weight: 500;
+}
+
+.font-normal {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+}
+
+.text-center {
+    text-align: center;
+}
+.text-left {
+    text-align: left;
+    text-indent: 1rem;
+}
+
+.text-indent {
+    text-indent: 1rem;
+}
+
+.text-indent-none {
+    text-indent: 0;
+}
+
+/** Text color */
+.text-red {
+    color: var(--red);
+}
+
+.text-deep-purple {
+    color: var(--deep-purple);
+}
+
+.text-gold {
+    color: var(--gold);
+}
+
+.text-white {
+    color: var(--white);    
+}

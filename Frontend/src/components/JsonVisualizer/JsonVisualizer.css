@@ -1,0 +1,121 @@
+.json-visualizer {
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    justify-content: center;
+    align-items: center;
+    padding: 20px 0;
+    width: 1200px;
+}
+
+.json-visualizer-form {
+    display: inline-flex;
+    border: 1px solid black;
+    border-radius: 10px;
+    overflow: hidden;
+    width: 60%;
+    flex-grow: 0;
+}
+.json-visualizer-form-label {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 8px 15px 8px 16px;
+    background-color: rgb(216, 216, 216);
+    color: rgb(89, 89, 89);
+}
+.json-visualizer-form-input {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    flex-grow: 1;
+    padding: 8px 15px 8px 16px;
+    border: none;
+    border-radius: 0;
+}
+.json-visualizer-form-copy {
+    font-size: 16px;
+    background-color: white;
+    border: none;
+    border-radius: 0;
+    cursor: pointer;
+}
+.json-visualizer-form-copy:hover {
+    background-color: rgb(241, 241, 241);
+}
+.popup-copy {
+    animation: popup-copy-Start 1.5s ease;
+    margin: 10px 0 0 0;
+    color: var(--gold);
+}
+@keyframes popup-copy-Start {
+    0% {
+        opacity: 0;
+    }
+    15% {
+        opacity: 1;
+    }
+    85% {
+        opacity: 1;
+    }
+    100% {
+        opacity: 0;
+    }
+}
+.json-visualizer-form-button {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    padding: 8px 15px 8px 16px;
+    border: none;
+    background-color: var(--gold);
+    color: white;
+    border-radius: 0;
+}
+.json-visualizer-form-button:hover {
+    cursor: pointer;
+    background-color: rgb(214, 12, 12);
+    color: white;
+}
+.json-visualizer-form-button:active {
+    cursor: pointer;
+    background-color: rgb(165, 0, 0);
+    color: white;
+}
+
+.toggle-visualizer {
+    position: relative;
+    background: #161616;
+    width: 80px;
+    height: 40px;
+    padding: 6px;
+    display: inline-flex;
+    justify-content: flex-start;
+    border-radius: 50px;
+    margin: 10px;
+    transition: all 0.25s ease 0s;
+}
+
+.button-visualizer {
+    height: 100%;
+    aspect-ratio: 1/1;
+    background: #ccc;
+    display: block;
+    align-self: center;
+    cursor: pointer;
+    border-radius: 50px;
+    transition: all 0.25s ease 0s;
+}
+
+#check-visualizer {
+    display: none;
+}
+
+#check-visualizer:checked ~ .button-visualizer {
+    transform: translateX(calc(-150% + 80px));
+    background: red;
+}
+
+.json-visualizer-json.disabled {
+    display: none;
+}  

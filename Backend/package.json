@@ -1,0 +1,26 @@
+{
+  "name": "god-of-war-api",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "concurrently \"npx nodemon ./src/server.js\" \"cd ../Frontend && npm run dev\"",
+    "scrap-characters": "cd ./scrapping && node scrapeCharacters.cjs",
+    "scrap-abilities": "cd ./scrapping && node scrapeAbilities.cjs"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.1",
+  "dependencies": {
+    "@bundled-es-modules/axios": "github:bundled-es-modules/axios",
+    "axios": "^1.8.3",
+    "cheerio": "^1.0.0",
+    "concurrently": "^9.1.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}

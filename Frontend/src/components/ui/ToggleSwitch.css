@@ -1,0 +1,30 @@
+.toggle-switch {
+    position: relative;
+    height: 30px;
+    aspect-ratio: 2/1;
+    padding: 5px;
+    display: inline-flex;
+    background-color: transparent;
+    border: 2px solid var(--gold);
+    justify-content: flex-start;
+    border-radius: 50px;
+    margin: 10px;
+    cursor: pointer;
+}
+
+.button-switch {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    transform: translate(calc(5px),-50%);
+    aspect-ratio: 1/1;
+    height: calc(100% - 10px);
+    background-color: var(--gold);
+    border-radius: 100%;
+    transition: all 0.3s ease 0s;
+}
+
+.button-switch.active {
+    left: 100%;
+    transform: translate(calc(-100% - 5px), -50%);
+}
