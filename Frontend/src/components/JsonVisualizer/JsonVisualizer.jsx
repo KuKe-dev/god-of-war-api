@@ -134,6 +134,7 @@ return (
             <div id='json-visualizer-styled' style={{width: "100%", backgroundColor: "rgb(var(--red-c) / 5%)", padding: "15px"}}>
                 {jsonData && jsonData.error ? <h4 className='font-normal text-gold'>Wrong path</h4>:
                 jsonData ? 
+                !jsonData.name ? "":
                 <>
                 <article className='styled-article' style={{padding: "30px"}}>
 
