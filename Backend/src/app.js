@@ -35,7 +35,7 @@ app.get('/characters', (req, res) => {
 
 app.get('/characters/:name', (req, res) => {
 
-    const characterName = req.params.name.toLowerCase();
+    const characterName = req.params.name;
     try {
         // Read the JSON file and parse it
         const character = JSON.parse(fs.readFileSync(`./data/characters/${characterName}.json`, 'utf-8'));
