@@ -153,7 +153,7 @@ async function getCharacterDetails(character) {
 }
 // Function to save character details to a JSON file
 function saveCharacterDetails(details) {
-    const fileName = `${details.name.replaceAll(" ", "_")/*.replace(/[^a-zA-Z0-9']/g, '_')*/}.json`;
+    const fileName = `${details.name.toLowerCase().replaceAll(" ", "_")/*.replace(/[^a-zA-Z0-9']/g, '_')*/}.json`;
     const filePath = path.join(OUTPUT_DIR, fileName);
     fs.writeFileSync(filePath, JSON.stringify(details, null, 2));
     console.log(`Saved: ${details.name}`);
