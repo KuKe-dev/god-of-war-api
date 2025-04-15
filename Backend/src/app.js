@@ -11,12 +11,12 @@ app.use(corsConfig);
     res.send('server running');
 }); */
 
-app.get('/api', (req, res) => {
+app.get('/', (req, res) => {
     res.set('Content-Type', 'text/html')
     .send('<h1>API</h1><br><li><a href="http://localhost:3000/api/characters">api/characters</a></li>');
 });
 
-app.get('/api/characters', (req, res) => {
+app.get('/characters', (req, res) => {
     try {
         const characterFiles = fs.readdirSync('./data/characters');
         const urls = characterFiles.map((file) => {
