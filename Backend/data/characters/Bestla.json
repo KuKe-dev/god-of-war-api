@@ -1,0 +1,15 @@
+{
+  "name": "Bestla",
+  "description": "Bestla is an Aesir Goddess. She is a member of the Aesir Royal Family, being wife of Borr, the mother of Odin, Vili and Vé, grandmother of Thor and Baldur, and great-grandmother of Magni, Modi, and Thrúd.",
+  "biographicalInformation": {
+    "birthplace": "Ginnungagap",
+    "location": "Asgard (presumably)",
+    "citizenship": "Asgardian",
+    "status": "Deceased (presumably)"
+  },
+  "physicalInformation": {
+    "race": "Goddess (Aesir)",
+    "gender": "Female"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Bestla"
+}

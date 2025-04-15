@@ -1,0 +1,17 @@
+{
+  "name": "Polyphemus",
+  "description": "Polyphemus (Greek: Πολύφημος) was the original cyclops from the Odyssey of Homer. He appears in God of War: Ascension’s multiplayer mode as the boss of the desert map. He does not appear in the singleplayer campaign. Polyphemus is the gigantic one-eyed Titan son of Poseidon and Sea Nymph, Thoosa.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/f/f6/Polyphemus-Concept.jpg/revision/latest/scale-to-width-down/268?cb=20120501020416",
+  "biographicalInformation": {
+    "birthplace": "N/A",
+    "location": "Desert of Lost Souls",
+    "status": "Deceased (killed by Kratos)"
+  },
+  "physicalInformation": {
+    "race": "Cyclops",
+    "gender": "Male",
+    "hair_colour": "None",
+    "skin_colour": "Fair"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Polyphemus"
+}

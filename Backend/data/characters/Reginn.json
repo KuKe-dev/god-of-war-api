@@ -1,0 +1,17 @@
+{
+  "name": "Reginn",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/1/1f/God_of_War_20180814221620.jpg/revision/latest/scale-to-width-down/268?cb=20180817182350",
+  "biographicalInformation": {
+    "birthplace": "Svartalfheim",
+    "location": "Midgard",
+    "citizenship": "Dwarf",
+    "status": "Alive"
+  },
+  "physicalInformation": {
+    "race": [
+      "Dwarf (formerly)",
+      "Dragon"
+    ]
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Reginn"
+}

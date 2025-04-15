@@ -1,0 +1,17 @@
+{
+  "name": "Beyla",
+  "description": "\n\nBeyla is a Dark Elf Warrior. She is the wife of Byggvir and ally to Freyr.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/a/ac/Raf-grassetti-darkone01.jpg/revision/latest/scale-to-width-down/268?cb=20230203093314",
+  "biographicalInformation": {
+    "birthplace": "Alfheim",
+    "location": "Vanaheim (presumably)",
+    "citizenship": "Elf",
+    "status": "Alive"
+  },
+  "physicalInformation": {
+    "race": "Dark Elf",
+    "gender": "Female",
+    "skin_colour": "Blue"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Beyla"
+}

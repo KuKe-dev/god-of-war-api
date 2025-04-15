@@ -1,0 +1,14 @@
+{
+  "name": "Oberon",
+  "description": "Oberon\nKing of the Faeries\nGod of War (2018)\nMimir\n",
+  "biographicalInformation": {
+    "birthplace": "Avalon (presumably)",
+    "location": "Alba (presumably)",
+    "status": "Alive (Possibly)"
+  },
+  "physicalInformation": {
+    "race": "Fae",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Oberon"
+}

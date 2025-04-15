@@ -1,0 +1,18 @@
+{
+  "name": "Kvasir",
+  "description": "\nKvasir is the Vanir God of poetry, Peace, Mead and Wisdom.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/5/5c/Kvasir.jpg/revision/latest/scale-to-width-down/268?cb=20240210035754",
+  "biographicalInformation": {
+    "birthplace": "Vanaheim or Asgard (possibly)",
+    "location": "Vanaheim",
+    "citizenship": "Vanirian",
+    "nationality": "Norse",
+    "status": "Deceased"
+  },
+  "physicalInformation": {
+    "race": "God (Vanir)",
+    "ethnicity": "Caucasian (Scandinavian)",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Kvasir"
+}

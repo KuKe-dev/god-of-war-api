@@ -1,0 +1,17 @@
+{
+  "name": "Fafnir",
+  "description": "Fafnir\nDwarf\nDragon\nGod of War (2018)\n",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/8/85/Fafnir.jpg/revision/latest/scale-to-width-down/268?cb=20180715141424",
+  "biographicalInformation": {
+    "birthplace": "Svartalfheim",
+    "location": "Midgard",
+    "citizenship": "Dwarf"
+  },
+  "physicalInformation": {
+    "race": [
+      "Dwarf (formerly)",
+      "Dragon"
+    ]
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Fafnir"
+}

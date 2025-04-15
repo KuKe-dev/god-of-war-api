@@ -1,0 +1,16 @@
+{
+  "name": "Ivaldi",
+  "description": "Ivaldi\nNiflheim\n",
+  "biographicalInformation": {
+    "birthplace": "Svartalfheim",
+    "deathplace": "Niflheim",
+    "location": "Niflheim",
+    "citizenship": "Dwarf",
+    "status": "Deceased"
+  },
+  "physicalInformation": {
+    "race": "Dwarf",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Ivaldi"
+}

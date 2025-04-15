@@ -1,0 +1,14 @@
+{
+  "name": "Archimedes",
+  "description": "\nArchimedes\n\n\n\t\n\t\t\n\t\t\n\t\n\t\n\n\n\tBiographical Information\n\n\n\t\n\t\tBirthplace\n\t\n\tSyracuse\n\n\n\n\t\n\t\tStatus\n\t\n\tDeceased\n\n\n\n\n\tPhysical Information\n\n\n\t\n\t\tRace\n\t\n\tMortal\n\n\n\n\t\n\t\tGender\n\t\n\tMale\n\n\n\n\n\tBehind the Scenes\n\n\n\t\n\t\tVoiced by\n\t\n\tNone\n\n\n\n\t\n\t\tAppears in\n\t\n\tGod of War: Ascension\nArchimedes\nGod of War: Ascension\n",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/0/0f/Archimedes.jpg/revision/latest/scale-to-width-down/268?cb=20120820020625",
+  "biographicalInformation": {
+    "birthplace": "Syracuse",
+    "status": "Deceased"
+  },
+  "physicalInformation": {
+    "race": "Mortal",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Archimedes"
+}

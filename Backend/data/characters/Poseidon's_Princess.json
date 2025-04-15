@@ -1,0 +1,20 @@
+{
+  "name": "Poseidon's Princess",
+  "description": "Poseidon's Princess is a minor character and unwilling ally of Kratos in God of War III. She is the enslaved concubine of Poseidon, found chained up in his personal quarters.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/9/97/Poseidon%27s_Princess.jpg/revision/latest/scale-to-width-down/268?cb=20201201004439",
+  "biographicalInformation": {
+    "birthplace": "Mount Olympus",
+    "deathplace": "Poseidon's Chamber",
+    "location": "Poseidon's Chamber",
+    "status": "Deceased (Crushed to death after being tied by Kratos to a giant crank)"
+  },
+  "physicalInformation": {
+    "race": "Mortal",
+    "gender": "Female",
+    "hair_colour": "Brunette",
+    "hair_style": "Bun",
+    "eyebrow_color": "Brunette",
+    "skin_colour": "Fair (white)"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Poseidon%27s_Princess"
+}

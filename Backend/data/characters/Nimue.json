@@ -1,0 +1,15 @@
+{
+  "name": "Nimue",
+  "description": "\nNimue is a Celtic Nymph, a woman expert in creating swords, responsible for creating the famous sword Excalibur. She is mentioned by Mimir in God of War Ragnarök",
+  "biographicalInformation": {
+    "birthplace": "Avalon",
+    "location": "The Lake",
+    "citizenship": "Celtic",
+    "status": "Alive (Possibly)"
+  },
+  "physicalInformation": {
+    "race": "Nymph",
+    "gender": "Female"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Nimue"
+}

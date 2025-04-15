@@ -1,0 +1,24 @@
+{
+  "name": "Alrik",
+  "description": "Alrik, better known as the Barbarian King, was the leader of the Barbarian army, a strong warrior himself and an old enemy of Kratos. He was killed by the Spartan after the latter gained the Blades of Chaos. He and his brutish army drove Kratos to beg Ares to save him, leading to the events of God of War: Ascension and thus the entire series.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/0/05/GOW_2_Kratos_vs_Barbarian_King.jpg/revision/latest/scale-to-width-down/267?cb=20090802130417",
+  "biographicalInformation": {
+    "birthplace": "Unknown (Some part of The East)",
+    "deathplace": [
+      "Some part of Greece (First and second deaths)",
+      "Bog of the Forgotten (Last death)"
+    ],
+    "location": "Bog of the Forgotten",
+    "age": "50+ (possibly)",
+    "status": "Deceased (killed by Kratos)"
+  },
+  "physicalInformation": {
+    "race": "Mortal, Undead",
+    "gender": "Male",
+    "hair_colour": "Black",
+    "eyebrow_color": "Black",
+    "beard_color": "Black",
+    "skin_colour": "Fair"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Alrik"
+}

@@ -4,9 +4,11 @@ import ReactJson from 'react-json-view';
 import './JsonVisualizer.css'
 import Button from '../ui/Button';
 
+
 export function JsonVisualizer() {
 
-    const serverUrl = "http://localhost:3000/api/";
+    const serverUrl = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3000/api/';
+    console.log(serverUrl);
     const [jsonData, setJsonData] = useState(null); // Initialize as null or an empty object
     const [jsonVisualizerValue, setJsonVisualizerValue] = useState(
     'characters/kratos'

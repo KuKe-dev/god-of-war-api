@@ -1,0 +1,28 @@
+{
+  "name": "Fenrir",
+  "description": "\nFenrir (Nordic: ᚠᛖᚾᚱᛁᚱ) is the elderly and sick wolf of Atreus and Kratos. After his death, Atreus subconsciously casts a spell that transfers his soul to his knife. During the fight with Garm, Atreus transfers his soul to the Hound of Helheim, changing its nature and resurrecting Fenrir, who aids them during the events of Ragnarök.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/5/5f/Capture_d%E2%80%99%C3%A9cran_2022-12-14_%C3%A0_23.06.48.png/revision/latest/scale-to-width-down/268?cb=20221214231004",
+  "biographicalInformation": {
+    "birthplace": "Midgard",
+    "deathplace": "Kratos' Cabin, Midgard (first and last death)",
+    "location": [
+      "Midgard (formerly)",
+      "Helheim (formerly)",
+      "Jötunheim"
+    ],
+    "citizenship": [
+      "Jötunn",
+      "Midgardian (formerly)"
+    ],
+    "nationality": "Norse",
+    "status": "Alive"
+  },
+  "physicalInformation": {
+    "race": [
+      "Wolf (Originally)",
+      "Jötunn (Animal giant)"
+    ],
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Fenrir"
+}

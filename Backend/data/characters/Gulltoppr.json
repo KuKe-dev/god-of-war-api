@@ -1,0 +1,16 @@
+{
+  "name": "Gulltoppr",
+  "description": "Gulltoppr is Heimdall's personal steed that serves as his official mount to protect the kingdom of Asgard.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/3/3c/FljVx_rXoAQ0xne.jpeg/revision/latest/scale-to-width-down/268?cb=20230107131231",
+  "biographicalInformation": {
+    "deathplace": "Vanaheim",
+    "location": "Gladsheim, Asgard",
+    "status": "Deceased (killed by Kratos)"
+  },
+  "physicalInformation": {
+    "race": "Graðungr",
+    "gender": "Male (female in some dubs)",
+    "skin_colour": "White"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Gulltoppr"
+}

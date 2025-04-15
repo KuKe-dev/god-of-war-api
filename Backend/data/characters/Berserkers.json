@@ -1,0 +1,19 @@
+{
+  "name": "Berserkers",
+  "description": "Berserkers\nGod of War Ragnarök\nKing Hrólf Kraki\nKing Aldis\n",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/2/20/Berserker_Gravestone.png/revision/latest/scale-to-width-down/268?cb=20250322033212",
+  "biographicalInformation": {
+    "birthplace": "Midgard",
+    "deathplace": "Midgard",
+    "location": "Various: Midgard King Hrólf KrakiFrækni the Zealous Svartalfheim Harðrefill the CallousBeigaðr the FearedStarólfr the TroublesomeBödvar the Fierce Vanaheim Hvítserkr the BoldHaklangr the Bearded Alfheim Sisters of IllskaSvipdagr the ColdHjalti the Stolid Niflheim Skjóthendi the Unerring",
+    "status": "Disbanded (Deceased)"
+  },
+  "physicalInformation": {
+    "race": [
+      "Mortal (formerly)",
+      "Berserker  (Undead)"
+    ],
+    "gender": "Various"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Berserkers"
+}

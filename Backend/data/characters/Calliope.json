@@ -1,0 +1,22 @@
+{
+  "name": "Calliope",
+  "description": "Calliope (Greek: Καλλιόπη) was the beloved daughter of Kratos and Lysandra. She, along with her mother, were unknowingly killed by Kratos as part of Ares' plot to harden Kratos' heart in order to make him the \"perfect warrior\" with no ties to the mortal realm. Unfortunately for the God of War, Calliope's death would only serve as the driving force behind Kratos' desire to kill Ares in retribution for his fallen family.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/c/c1/Bryanwynia-god-of-war-ascension-calliope.jpg/revision/latest/scale-to-width-down/136?cb=20130623151533",
+  "biographicalInformation": {
+    "birthplace": "Sparta",
+    "deathplace": "Village",
+    "citizenship": "Spartan",
+    "nationality": "Greek",
+    "status": "Deceased (accidentally killed by Kratos)"
+  },
+  "physicalInformation": {
+    "race": [
+      "3/4 Mortal",
+      "1/4 God"
+    ],
+    "gender": "Female",
+    "hair_colour": "Brown",
+    "skin_colour": "Fair"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Calliope"
+}

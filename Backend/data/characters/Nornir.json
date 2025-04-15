@@ -1,0 +1,15 @@
+{
+  "name": "Nornir",
+  "description": "The Nornir are the Norse Goddesses of Fate. They are also the Norse counterpart of the Greek Goddesses of Fate, the Sisters of Fate.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/e/e6/OfficialNornir.jpg/revision/latest/scale-to-width-down/268?cb=20230203094819",
+  "biographicalInformation": {
+    "birthplace": "Ginnungagap",
+    "location": "Midgard",
+    "status": "Alive"
+  },
+  "physicalInformation": {
+    "race": "Primordials",
+    "gender": "Females"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Nornir"
+}

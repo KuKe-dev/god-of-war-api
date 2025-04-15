@@ -1,0 +1,17 @@
+{
+  "name": "Chaurli",
+  "description": "Chaurli is the giant tortoise that lives above Freya's home, as thanks for having saved her, since she was confined to the forests of Midgard, without escaping from the Aesir.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/c/c3/FSlM3bsWUAYKE_j.jpeg/revision/latest/scale-to-width-down/268?cb=20230107163209",
+  "biographicalInformation": {
+    "birthplace": "Vanaheim (presumably)",
+    "location": "Sanctuary Grove, Midgard",
+    "citizenship": "Midgardian",
+    "nationality": "Norse",
+    "status": "Alive"
+  },
+  "physicalInformation": {
+    "race": "Tortoise",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Chaurli"
+}

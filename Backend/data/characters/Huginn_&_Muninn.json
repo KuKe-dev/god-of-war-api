@@ -1,0 +1,18 @@
+{
+  "name": "Huginn & Muninn",
+  "description": "Huginn and Muninn are Odin's eyes and ears. This pair of ravens fly all over the realms, serving as his personal spies and bringing him precious information.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/5/58/FlZPwbUXkAA7D-I.jpeg/revision/latest/scale-to-width-down/268?cb=20230104121419",
+  "biographicalInformation": {
+    "birthplace": "Midgard (presumably)",
+    "deathplace": "Gladsheim, Asgard (Muninn)",
+    "location": "Gladsheim, Asgard (formely)Midgard",
+    "nationality": "Norse",
+    "status": "Alive (Huginn)Deceased (Muninn)"
+  },
+  "physicalInformation": {
+    "race": "Ravens",
+    "gender": "Males",
+    "skin_colour": "Black"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Huginn_%26_Muninn"
+}

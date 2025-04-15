@@ -1,0 +1,19 @@
+{
+  "name": "Olrun",
+  "description": "Olrun is a Valkyrie introduced in God of War (2018). She is one of the Nine Valkyries who have been cursed by Odin to remain in a corporal form, eventually driving them to insanity. As she became too dangerous, Olrun eventually found herself sealed away by the Valkyrie Queen in Alfheim. She is nevertheless freed by Kratos and Atreus after they engaged and defeated her physical form. Blessing them with her eternal gratitude, her spirit vanished and eventually reunited with her sisters.\nOlrun returns in God of War Ragnarök as a Shield Maiden, having regained a pure physical form thanks to Freya and her Vanir magic. Grateful for having been freed from Odin's curse and having acknowledged Kratos as her General, she actively participates together with her freed sisters to the final assault against Asgard during Ragnarök. She was killed by Gná during the battle.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/6/6a/FlL1ji_XoAA3HCL.jpeg/revision/latest/scale-to-width-down/267?cb=20230105105637",
+  "biographicalInformation": {
+    "birthplace": "The Nine Realms",
+    "deathplace": "Asgard, Vigridr",
+    "location": "Alfheim",
+    "status": "Deceased (Wings ripped off by Gná)"
+  },
+  "physicalInformation": {
+    "race": [
+      "Valkyrie (formerly)",
+      "Shield Maiden"
+    ],
+    "gender": "Female"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Olrun"
+}

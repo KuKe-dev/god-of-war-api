@@ -1,0 +1,16 @@
+{
+  "name": "Ægir",
+  "description": "\nÆgir is a Norse God of the Sea and a Jötunn.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/b/b2/%C3%86gir.jpg/revision/latest/scale-to-width-down/268?cb=20240205230050",
+  "biographicalInformation": {
+    "birthplace": "Ginnungagap (Possibly)",
+    "location": "Asgard",
+    "citizenship": "Asgardian",
+    "status": "Unknown"
+  },
+  "physicalInformation": {
+    "race": "1/2 God (Aesir)1/2 Jötunn (Jötnar)",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/%C3%86gir"
+}

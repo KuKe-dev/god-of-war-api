@@ -1,0 +1,17 @@
+{
+  "name": "Aegeus",
+  "description": "Aegeus\nTheseus\n",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/3/32/Themis_Aigeus_Antikensammlung_Berlin_F2538_n2.jpg/revision/latest/scale-to-width-down/267?cb=20240729224132",
+  "biographicalInformation": {
+    "birthplace": "Megara",
+    "deathplace": "Aegean Sea",
+    "location": "Underworld",
+    "nationality": "Greek",
+    "status": "Deceased (suicide)"
+  },
+  "physicalInformation": {
+    "race": "Mortal",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Aegeus"
+}

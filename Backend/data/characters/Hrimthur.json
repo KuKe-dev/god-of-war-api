@@ -1,0 +1,16 @@
+{
+  "name": "Hrimthur",
+  "description": "Hrimthur\nJötunn\nThamur\n",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/f/f6/Hrimthur_God_of_War_2018.png/revision/latest/scale-to-width-down/268?cb=20180611023613",
+  "biographicalInformation": {
+    "birthplace": "Jötunheim",
+    "deathplace": "Asgard",
+    "citizenship": "Jötunn",
+    "status": "Deceased (Assassinated by Thor)"
+  },
+  "physicalInformation": {
+    "race": "Jötunn",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Hrimthur"
+}

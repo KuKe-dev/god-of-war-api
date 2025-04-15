@@ -1,0 +1,25 @@
+{
+  "name": "Fiske",
+  "description": "Fiske\nEinherjar\nGod of War Ragnarök\nVanaheim\n",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/9/93/Fiske_%28Brighter%29.jpg/revision/latest/scale-to-width-down/267?cb=20230218073248",
+  "biographicalInformation": {
+    "birthplace": "Midgard (presumably)",
+    "deathplace": "Vanaheim",
+    "location": [
+      "Vanaheim (formerly)",
+      "Valhalla"
+    ],
+    "citizenship": "Midgardian (formerly) Asgardian",
+    "status": "Deceased"
+  },
+  "physicalInformation": {
+    "race": [
+      "Midgardian (formerly)",
+      "Einherjar"
+    ],
+    "ethnicity": "Cacausian (Scandinavian)",
+    "gender": "Male",
+    "skin_colour": "White (Pale)"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Fiske"
+}

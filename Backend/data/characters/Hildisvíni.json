@@ -1,0 +1,22 @@
+{
+  "name": "Hildisvíni",
+  "description": "Hildsvini is a Vanir God, archer and Freya's Advisor. While in Midgard, he was trapped in the form of a boar and was Freya's friend during her stay in the Wildwoods.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/d/dd/Hildisvini.png/revision/latest/scale-to-width-down/268?cb=20231108184254",
+  "biographicalInformation": {
+    "birthplace": "Vanaheim",
+    "location": "VanaheimMidgard",
+    "citizenship": "Vanirian",
+    "nationality": "Norse",
+    "status": "Alive"
+  },
+  "physicalInformation": {
+    "race": "Norse God (Vanir)",
+    "gender": "Male",
+    "hair_colour": "Brunet",
+    "hair_style": "Braided bun",
+    "eyebrow_color": "Brunet",
+    "beard_color": "Brunet",
+    "skin_colour": "Black (Brown)"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Hildisv%C3%ADni"
+}

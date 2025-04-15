@@ -1,0 +1,15 @@
+{
+  "name": "Blóðugr Steinn",
+  "description": "\nBlóðugr Steinn is a troll that appears as an optional boss in God of War Ragnarök.\nBiography[]\nGod of War Ragnarök[]",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/0/0a/Steinn.png/revision/latest/scale-to-width-down/268?cb=20230806022834",
+  "biographicalInformation": {
+    "deathplace": "Midgard",
+    "location": "Midgard",
+    "status": "Deceased"
+  },
+  "physicalInformation": {
+    "race": "Troll (Stone)",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Bl%C3%B3%C3%B0ugr_Steinn"
+}

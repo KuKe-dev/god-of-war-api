@@ -7,9 +7,9 @@ const app = express();
 app.use(express.json());
 app.use(corsConfig);
 
-app.get('/', (req, res) => {
+/* app.get('/', (req, res) => {
     res.send('server running');
-});
+}); */
 
 app.get('/api', (req, res) => {
     res.set('Content-Type', 'text/html')

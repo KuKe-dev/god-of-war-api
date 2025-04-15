@@ -1,0 +1,21 @@
+{
+  "name": "Starólfr the Troublesome",
+  "description": "\nStaróflr the Troublesome\nBerserkers\nGod of War Ragnarök\nBödvar the Fierce\nSvartalfheim\n",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/6/64/Star%C3%B3lfr.png/revision/latest/scale-to-width-down/268?cb=20230324002124",
+  "biographicalInformation": {
+    "birthplace": "Midgard",
+    "deathplace": "Svartalfheim",
+    "location": "Svartalfheim",
+    "citizenship": "Dead",
+    "nationality": "Danish",
+    "status": "Deceased"
+  },
+  "physicalInformation": {
+    "race": [
+      "Mortal (formerly)",
+      "Berserker"
+    ],
+    "gender": "Female"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Star%C3%B3lfr_the_Troublesome"
+}
