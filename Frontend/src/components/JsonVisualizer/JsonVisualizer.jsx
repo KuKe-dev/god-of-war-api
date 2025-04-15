@@ -47,6 +47,7 @@ export function JsonVisualizer() {
         switchToggle.addEventListener('click', handleCheckboxChange);
     }, []);
 
+    // eslint-disable-next-line no-unused-vars
     const [isActive, setIsActive] = useState(false);
     
     const handleCheckboxChange = useCallback(() => {
