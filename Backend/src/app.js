@@ -38,7 +38,7 @@ app.get('/characters/:name', (req, res) => {
     const characterName = req.params.name;
     try {
         // Read the JSON file and parse it
-        const character = JSON.parse(fs.readFileSync(`./data/characters/${characterName}.json`, 'utf-8'));
+        const character = JSON.parse(fs.readFileSync(`../data/characters/${characterName}.json`, 'utf-8'));
         res.status(200).json(character); // Send the parsed JSON as the response
     } catch (error) {
         // Handle errors (e.g., file not found or invalid JSON)
