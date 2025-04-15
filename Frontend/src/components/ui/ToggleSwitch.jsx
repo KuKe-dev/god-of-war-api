@@ -1,10 +1,12 @@
 import { useState } from 'react';
 import './ToggleSwitch.css'
 
-export default function ToggleSwitch() {
+export default function ToggleSwitch(checked) {
 
-    const [isActive, setIsActive] = useState(false);
-
+    window.onload = () => {
+        setIsActive(checked);
+    }
+    const [isActive, setIsActive] = useState(true);
 
     function toggle() {
         setIsActive(!isActive);
