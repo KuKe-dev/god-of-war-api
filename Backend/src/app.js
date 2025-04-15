@@ -13,7 +13,7 @@ app.use(corsConfig);
 
 app.get('/', (req, res) => {
     res.set('Content-Type', 'text/html')
-    .send('<h1>API</h1><br><li><a href="http://localhost:3000/api/characters">api/characters</a></li>');
+    .send('<h1>API</h1><br><li><a href="/characters">api/characters</a></li>');
 });
 
 app.get('/characters', (req, res) => {
@@ -33,7 +33,7 @@ app.get('/characters', (req, res) => {
     }
 });
 
-app.get('/api/characters/:name', (req, res) => {
+app.get('/characters/:name', (req, res) => {
 
     const characterName = req.params.name;
     try {
