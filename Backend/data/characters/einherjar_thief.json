@@ -1,0 +1,27 @@
+{
+  "name": "Einherjar Thief",
+  "description": "\nThe Einherjar Thief is an enemy Einherjar Tamer, which prevents Kratos and Atreus from recovering the Moon.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/8/8e/Einherjar_Thief.png/revision/latest/scale-to-width-down/268?cb=20240413181850",
+  "biographicalInformation": {
+    "birthplace": "Midgard",
+    "deathplace": "Vanaheim",
+    "location": "Asgard",
+    "citizenship": [
+      "Midgardian (formerly)",
+      "Asgardian"
+    ],
+    "nationality": "Norse",
+    "status": "Deceased (killed by Kratos)"
+  },
+  "physicalInformation": {
+    "race": [
+      "Midgardian (Formerly)",
+      "Einherjar"
+    ],
+    "ethnicity": "Cacausian (Scandinavian)",
+    "gender": "Female",
+    "hair_colour": "Brown",
+    "skin_colour": "Pale"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Einherjar_Thief"
+}

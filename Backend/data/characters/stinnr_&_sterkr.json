@@ -1,0 +1,32 @@
+{
+  "name": "Stinnr & Sterkr",
+  "description": "Stinnr\nSterkr\nGod of War: Ragnarök\n",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/5/58/Stinnr_%26_Sterkr.jpg/revision/latest/scale-to-width-down/268?cb=20230726061628",
+  "biographicalInformation": {
+    "birthplace": "Midgard",
+    "deathplace": [
+      "Unknown (first death)",
+      "Alfheim (last death)"
+    ],
+    "location": [
+      "Asgard (formerly)",
+      "Alfheim"
+    ],
+    "citizenship": [
+      "Midgardian (formerly)",
+      "Asgardian"
+    ],
+    "nationality": "Norse",
+    "status": "Deceased (killed by Kratos)"
+  },
+  "physicalInformation": {
+    "race": [
+      "Midgardian (Formerly)",
+      "Einherjar"
+    ],
+    "ethnicity": "Cacausian (Scandinavian)",
+    "gender": "Male",
+    "skin_colour": "Pale"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Stinnr_%26_Sterkr"
+}

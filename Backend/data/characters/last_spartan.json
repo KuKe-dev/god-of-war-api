@@ -1,0 +1,24 @@
+{
+  "name": "Last Spartan",
+  "description": "The Last Spartan was a young Spartan commander who was very loyal to Kratos during his time as the God of War and was one of the few people Kratos actually cared for besides his family. He received his title due to him being the only mortal Spartan survivor after the betrayal of Zeus.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/6/6e/Last_spartan.jpg/revision/latest/scale-to-width-down/268?cb=20100727115136",
+  "biographicalInformation": {
+    "birthplace": "Sparta",
+    "deathplace": "Palace of the Fates",
+    "location": "Sparta, Island of Creation",
+    "age": "Unknown",
+    "citizenship": "Spartan",
+    "nationality": "Greek",
+    "status": [
+      "Deceased (accidentally killed by Kratos)"
+    ]
+  },
+  "physicalInformation": {
+    "race": "Mortal",
+    "gender": "Male",
+    "hair_colour": "Brown",
+    "eyebrow_color": "Brown",
+    "skin_colour": "White (Fair)"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Last_Spartan"
+}

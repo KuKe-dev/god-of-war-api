@@ -1,0 +1,31 @@
+{
+  "name": "Sigrún",
+  "description": "Sigrún is the Valkyrie Queen introduced in God of War (2018). She is one of the nine Valkyries who have been cursed into insanity by Odin. Although the incredible amount of power she possesses allowed her to resist much longer than her sisters, she inevitably lost herself as well. She is nevertheless freed by Kratos and Atreus after they engaged and defeated her physical form in a long and difficult battle. Blessing them with her eternal gratitude, her spirit vanished and eventually reunited with her sisters.\nSigrún returns in God of War Ragnarök as a Shield Maiden, having regained a pure physical form thanks to Freya and her Vanir magic. Grateful for having been freed from Odin's curse, acknowledging Kratos as her General and Freya as the Valkyrie Queen, she actively participates together with her freed sisters to the final assault against Asgard during Ragnarök. Her formidable skills in combat undoubtedly helped Kratos and his troops secure their victory over the Asgardians.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/4/4d/Scr324oi.png/revision/latest/scale-to-width-down/268?cb=20240102131315",
+  "biographicalInformation": {
+    "birthplace": "Midgard (Fjöturlund)",
+    "location": [
+      "Asgard (formerly)",
+      "Valhalla (formerly)",
+      "Midgard"
+    ],
+    "age": "Unknown (centuries)",
+    "citizenship": [
+      "Midgardian (formerly)",
+      "Asgardian (formerly)",
+      "Vanirian"
+    ],
+    "status": "Alive"
+  },
+  "physicalInformation": {
+    "race": [
+      "Midgardian (formerly)",
+      "Valkyrie (formerly)",
+      "Shield Maiden"
+    ],
+    "ethnicity": "Cacausian (Scandinavian)",
+    "gender": "Female",
+    "skin_colour": "Grey (corrupted) Fair"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Sigr%C3%BAn"
+}

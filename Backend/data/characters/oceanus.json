@@ -1,0 +1,19 @@
+{
+  "name": "Oceanus",
+  "description": "Oceanus\nὨκεανός\nGod of War II\nGod of War III\nMount Olympus\nHades\nZeus\n",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/5/57/Oceanus-render.png/revision/latest/scale-to-width-down/268?cb=20141029200036",
+  "biographicalInformation": {
+    "birthplace": "Island of Creation",
+    "deathplace": "Mount Olympus",
+    "location": "Tartarus",
+    "age": "+1.000.000",
+    "status": "Deceased (Thrown down by Hades with his claws)"
+  },
+  "physicalInformation": {
+    "race": "God (Titan)",
+    "gender": "Male",
+    "hair_colour": "None",
+    "skin_colour": "Black"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Oceanus"
+}

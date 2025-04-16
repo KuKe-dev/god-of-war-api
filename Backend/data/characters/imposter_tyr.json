@@ -1,0 +1,27 @@
+{
+  "name": "Imposter Tyr",
+  "description": "The ”Týr“ that Kratos and Atreus had freed in Svartalfheim was actually Odin in disguise, who posed as his own son as a means to infiltrate Kratos' circle of allies and know their plans. This also unexpectedly led him to discover the secret prophecies that the Jötnar had hidden in their shrines. Odin eventually drops his disguise altogether in a moment of anger when he kills Brok.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/7/76/Tyr.png/revision/latest/scale-to-width-down/268?cb=20231110164911",
+  "biographicalInformation": {
+    "deathplace": "Sindri's House",
+    "location": [
+      "Svartalfheim (temporarily)",
+      "Sindri's House (temporarily)"
+    ],
+    "citizenship": "Asgardian",
+    "nationality": "Norse",
+    "status": "Inactive (Odin's death)"
+  },
+  "physicalInformation": {
+    "race": "God (Aesir)",
+    "ethnicity": "Cacausian (Scandinavian)",
+    "gender": "Male",
+    "height": "257.438 cm (8'5\")",
+    "hair_colour": "Brown",
+    "hair_style": "Messy and long",
+    "eyebrow_color": "Brown",
+    "beard_color": "Brown",
+    "skin_colour": "White (Fair)"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Imposter_Tyr"
+}

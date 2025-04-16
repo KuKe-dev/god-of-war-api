@@ -1,0 +1,15 @@
+{
+  "name": "Cepheus",
+  "description": "Cepheus\nAndromeda\nPerseus\n",
+  "biographicalInformation": {
+    "birthplace": "Ethiopia",
+    "location": "Ethiopia",
+    "nationality": "Greek",
+    "status": "Alive"
+  },
+  "physicalInformation": {
+    "race": "Mortal",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Cepheus"
+}

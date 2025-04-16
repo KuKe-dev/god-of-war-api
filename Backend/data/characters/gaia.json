@@ -1,0 +1,23 @@
+{
+  "name": "Gaia",
+  "description": "Gaia (Greek: Γαῖα) is the Primordial Goddess of the Earth, mother of the Titans and the grandmother/great-grandmother of the Olympian Gods. She is the narrator of the series, the deuteragonist of God of War II, and the secondary antagonist of God of War III.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/b/bb/Gow2-gaia.jpg/revision/latest/scale-to-width-down/267?cb=20080308184943",
+  "biographicalInformation": {
+    "birthplace": "Island of Creation",
+    "deathplace": "Dias",
+    "location": [
+      "Tartarus",
+      "Mount Olympus"
+    ],
+    "age": "+100.000.000",
+    "status": "Deceased (Stabbed in the heart by Kratos with the Blade of Olympus)"
+  },
+  "physicalInformation": {
+    "race": "Goddess (Primordial)",
+    "gender": "Female",
+    "height": "500",
+    "hair_colour": "Trees",
+    "skin_colour": "Grey (Stony)"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Gaia"
+}

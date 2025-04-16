@@ -1,0 +1,21 @@
+{
+  "name": "Bödvar the Fierce",
+  "description": "\nBödvar the Fierce\nBerserkers\nGod of War Ragnarök\nStarólfr the Troublesome\nSvartalfheim\n",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/b/b6/B%C3%B6dvar.png/revision/latest/scale-to-width-down/268?cb=20230323210229",
+  "biographicalInformation": {
+    "birthplace": "Midgard",
+    "deathplace": "Svartalfheim",
+    "location": "Svartalfheim",
+    "citizenship": "Dead",
+    "nationality": "Norwegian",
+    "status": "Deceased"
+  },
+  "physicalInformation": {
+    "race": [
+      "Mortal (formerly)",
+      "Berserker"
+    ],
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/B%C3%B6dvar_the_Fierce"
+}

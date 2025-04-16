@@ -1,0 +1,18 @@
+{
+  "name": "Perseus",
+  "description": "Perseus (Greek: Περσεύς) was a Greek Demigod hero, son of Zeus and half-brother to Kratos. He is a boss in God of War II.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/8/8a/Perseus-God_of_War_II_001.PNG/revision/latest/scale-to-width-down/267?cb=20160430015419",
+  "biographicalInformation": {
+    "birthplace": "Argos",
+    "location": "Island of Creation",
+    "nationality": "Greek",
+    "status": "Deceased (Impaled on a hook by Kratos)"
+  },
+  "physicalInformation": {
+    "race": "Demigod",
+    "gender": "Male",
+    "hair_colour": "Brown",
+    "skin_colour": "Fair"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Perseus"
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Ullr",
+  "description": "\nUllr (Old Norse: Ull) is a Norse God of Archery, Hunt, Sports and Skiing.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/9/93/UllrMyth.jpg/revision/latest/scale-to-width-down/268?cb=20240218222749",
+  "biographicalInformation": {
+    "birthplace": "Gladsheim, Asgard (presumably)",
+    "location": "Gladsheim, Asgard",
+    "citizenship": "Asgardian",
+    "status": "Alive (Presumed)"
+  },
+  "physicalInformation": {
+    "race": "God (Aesir)",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Ullr"
+}

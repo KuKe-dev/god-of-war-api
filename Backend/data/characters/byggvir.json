@@ -1,0 +1,17 @@
+{
+  "name": "Byggvir",
+  "description": "\n\nByggvir\nLight Elf\nBeyla\nVanir\nFreyr",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/9/9a/FkRTKJkXoAMXO8d.jpeg/revision/latest/scale-to-width-down/268?cb=20230113100331",
+  "biographicalInformation": {
+    "birthplace": "Alfheim",
+    "location": "Vanaheim (presumably)",
+    "citizenship": "Elf",
+    "status": "Alive"
+  },
+  "physicalInformation": {
+    "race": "Light Elf",
+    "gender": "Male",
+    "skin_colour": "Pinkish grey"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Byggvir"
+}

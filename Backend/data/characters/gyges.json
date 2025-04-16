@@ -1,0 +1,16 @@
+{
+  "name": "Gyges",
+  "description": "Gyges (Γύγης) is one of the three Hecatonchires. He is a hidden antagonist of the God of War (comics).",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/8/8c/Gyges_super.jpg/revision/latest/scale-to-width-down/268?cb=20101230064657",
+  "biographicalInformation": {
+    "deathplace": "Spire of Asclepius",
+    "location": "Spire of Asclepius",
+    "age": "+1.000.000",
+    "status": "Deceased (killed by Kratos)"
+  },
+  "physicalInformation": {
+    "race": "Hecatonchire",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Gyges"
+}

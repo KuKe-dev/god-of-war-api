@@ -1,0 +1,17 @@
+{
+  "name": "Ask",
+  "description": "\nAsk was the first Midgardian man created by Odin.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/e/e0/Odin%2C_Lodur%2C_Hoenir_skabe_Ask_og_Embla_by_Fr%C3%B8lich.jpg/revision/latest/scale-to-width-down/268?cb=20240726180557",
+  "biographicalInformation": {
+    "birthplace": "Midgard",
+    "location": "Midgard",
+    "citizenship": "Midgardian",
+    "nationality": "Norse",
+    "status": "Deceased"
+  },
+  "physicalInformation": {
+    "race": "Mortal",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Ask"
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Hermes",
+  "description": "Hermes (Greek: Ἑρμῆς) was the Olympian God of Travelers, Messengers, Thieves, Commerce, Sports, Athletics, and Speed. Famed as the Messenger of Mount Olympus, he was the son of the King of the Gods Zeus and the Pleiades Maia. He is also the father of Ceryx, the messenger of Mount Olympus.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/9/9d/AkinHermes.png/revision/latest/scale-to-width-down/268?cb=20240128185009",
+  "biographicalInformation": {
+    "birthplace": "Mount Cylene",
+    "deathplace": "Mount Olympus",
+    "location": "Mount Olympus",
+    "citizenship": "Olympian",
+    "nationality": "Greek",
+    "status": "Deceased (Legs amputated by Kratos with the Blades of Exile)"
+  },
+  "physicalInformation": {
+    "race": "God (Olympian)",
+    "gender": "Male",
+    "hair_colour": "Fire",
+    "eyebrow_color": "Brown",
+    "skin_colour": "White (Fair)"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Hermes"
+}

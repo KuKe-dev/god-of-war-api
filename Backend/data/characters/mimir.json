@@ -1,0 +1,31 @@
+{
+  "name": "Mimir",
+  "description": "Mimir (Nordic: ᛗᛁᛗᛁᚱ), formerly known as Puck, is a Celtic fae who became Odin's advisor and the ambassador of the Aesir Gods until Odin imprisoned him for 109 years. After being freed by Kratos and Atreus, he became their ally. He is the tritagonist of God of War (2018) and God of War Ragnarök, and later the deuteragonist of God of War Ragnarök: Valhalla.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/e/e7/Mimir_lunda_notes_1.png/revision/latest/scale-to-width-down/268?cb=20231216073238",
+  "biographicalInformation": {
+    "birthplace": "Avalon (by presumably)",
+    "deathplace": "The Mountain (First and last death)",
+    "location": [
+      "Avalon (formerly)",
+      "Asgard (formerly)",
+      "The Mountain (formerly)",
+      "Helheim (temporarily)",
+      "Realm Between Realms (temporarily)",
+      "Midgard"
+    ],
+    "age": "+300",
+    "citizenship": "Asgardian (formerly)",
+    "nationality": "Celts",
+    "status": "Reanimated (disembodied head)"
+  },
+  "physicalInformation": {
+    "race": "God  (Aesir, originally Fae)",
+    "gender": "Male",
+    "hair_colour": "Grey",
+    "hair_style": "Bald",
+    "eyebrow_color": "Grey",
+    "beard_color": "Grey",
+    "skin_colour": "White (Fair)"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Mimir"
+}

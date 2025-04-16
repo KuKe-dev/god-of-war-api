@@ -1,0 +1,17 @@
+{
+  "name": "Blatönn",
+  "description": "\nBlatönn is an alpha-werewolf encountered in Vanaheim.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/7/77/Blat%C3%B6nn.jpg/revision/latest/scale-to-width-down/268?cb=20231227043925",
+  "biographicalInformation": {
+    "birthplace": "Vanaheim (presumably)",
+    "deathplace": "Vanaheim",
+    "location": "Vanaheim",
+    "status": "Deceased"
+  },
+  "physicalInformation": {
+    "race": "Wulver",
+    "gender": "Male",
+    "hair_colour": "Red, grey, and white"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Blat%C3%B6nn"
+}

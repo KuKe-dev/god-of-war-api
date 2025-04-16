@@ -1,0 +1,16 @@
+{
+  "name": "Dark Rider",
+  "description": "\nThe Dark Rider or Warrior of Destiny was the leader of the Griffin Riders, who protected the Island of Creation.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/9/9e/Dark_Rider.jpg/revision/latest/scale-to-width-down/268?cb=20110519002205",
+  "biographicalInformation": {
+    "birthplace": "Island of Creation",
+    "deathplace": "Island of Creation",
+    "location": "Island of Creation",
+    "status": "Deceased (killed by Kratos using his own weapon)"
+  },
+  "physicalInformation": {
+    "race": "Satyr",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Dark_Rider"
+}

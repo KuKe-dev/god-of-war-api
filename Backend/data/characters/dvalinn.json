@@ -1,0 +1,14 @@
+{
+  "name": "Dvalinn",
+  "description": "\nDvalinn is a Seasonal Stag from Yggdrasil, representing the season of Summer.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/c/c4/Dvalinn.webp/revision/latest/scale-to-width-down/268?cb=20240215230926",
+  "biographicalInformation": {
+    "location": "Realm Between Realms",
+    "nationality": "Norse",
+    "status": "Alive"
+  },
+  "physicalInformation": {
+    "race": "Seasonal Stag"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Dvalinn"
+}

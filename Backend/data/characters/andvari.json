@@ -1,0 +1,17 @@
+{
+  "name": "Andvari",
+  "description": "Andvari\nKratos\nAtreus\nBrok\nGod of War (2018)\n",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/c/cb/ANDVARI2.png/revision/latest/scale-to-width-down/268?cb=20180501142555",
+  "biographicalInformation": {
+    "birthplace": "Svartalfheim",
+    "deathplace": "Midgard",
+    "location": "Midgard",
+    "citizenship": "Dwarf",
+    "status": "Alive (Soul Inside the Ring)(Deceased physical body)"
+  },
+  "physicalInformation": {
+    "race": "Ring (formerly Dwarf)",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Andvari"
+}

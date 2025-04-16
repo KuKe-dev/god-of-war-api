@@ -1,0 +1,20 @@
+{
+  "name": "Theseus",
+  "description": "Theseus (Greek: Θησεύς) was a Greek Demigod hero, son of Poseidon, and founder-king of the city of Athens. He acts as a boss in God of War II.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/d/d9/THEse.jpeg/revision/latest?cb=20180927014306",
+  "biographicalInformation": {
+    "birthplace": "Athens",
+    "deathplace": "Steeds of Time",
+    "location": "Steeds of Time",
+    "age": "Unknown (Old age)",
+    "nationality": "Greek",
+    "status": "Deceased (Head smashed between door by Kratos)"
+  },
+  "physicalInformation": {
+    "race": "Demigod",
+    "gender": "Male",
+    "hair_colour": "Grey",
+    "skin_colour": "Fair"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Theseus"
+}

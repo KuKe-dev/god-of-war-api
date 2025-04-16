@@ -1,0 +1,16 @@
+{
+  "name": "Thrym",
+  "description": "Thrym is a Jötunn featured in God of War (2018). He was a Frost Giant King who stole Thor's hammer, Mjölnir.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/0/0a/Thrym_%28God_of_War_2018%29.png/revision/latest/scale-to-width-down/268?cb=20180608145546",
+  "biographicalInformation": {
+    "birthplace": "Jötunheim",
+    "location": "Jötunheim",
+    "citizenship": "Jötunn",
+    "status": "Deceased (Skull smashed by Thor)"
+  },
+  "physicalInformation": {
+    "race": "Jötunn",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Thrym"
+}

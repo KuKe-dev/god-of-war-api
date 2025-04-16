@@ -1,0 +1,15 @@
+{
+  "name": "Stonebeard King",
+  "description": "Stonebeard King\nTroll\nGod of War (2018)\n",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/4/4d/God_of_War_20180519151427.jpg/revision/latest/scale-to-width-down/268?cb=20180521165107",
+  "biographicalInformation": {
+    "deathplace": "Thamur's Corpse",
+    "location": "Thamur's Corpse",
+    "status": "Deceased"
+  },
+  "physicalInformation": {
+    "race": "Troll (Frost)",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Stonebeard_King"
+}

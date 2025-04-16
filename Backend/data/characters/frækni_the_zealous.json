@@ -1,0 +1,21 @@
+{
+  "name": "Frækni the Zealous",
+  "description": "\nFrækni the Zealous\nBerserkers\nGod of War Ragnarök\nMidgard\n",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/b/b8/Fraekni.png/revision/latest/scale-to-width-down/268?cb=20230323040644",
+  "biographicalInformation": {
+    "birthplace": "Midgard",
+    "deathplace": "Midgard",
+    "location": "Midgard",
+    "citizenship": "Dead",
+    "nationality": "Danish",
+    "status": "Deceased"
+  },
+  "physicalInformation": {
+    "race": [
+      "Mortal (formerly)",
+      "Berserker"
+    ],
+    "gender": "Female"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Fr%C3%A6kni_the_Zealous"
+}

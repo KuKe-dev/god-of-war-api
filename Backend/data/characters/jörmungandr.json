@@ -1,0 +1,20 @@
+{
+  "name": "Jörmungandr",
+  "description": "Jörmungandr (Old Norse: Jǫrmungandr, Nordic: ᛃᛟᚱᛗᚢᚾᚷᚨᚾᛞᚱ), also known as the World Serpent, is a mythical male Jötunn serpent destined to fight Thor come Ragnarök. He becomes an ally of Kratos and Atreus after the pair awaken him from deep slumber within the Lake of Nine.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/6/6f/Midgard_Serpent.png/revision/latest/scale-to-width-down/268?cb=20230202182804",
+  "biographicalInformation": {
+    "birthplace": "Jötunheim (Ironwood)",
+    "deathplace": "Unknown (First and last death)",
+    "location": [
+      "Jötunheim (formerly)",
+      "Midgard, Lake of Nine"
+    ],
+    "citizenship": "Jötunn",
+    "status": "Alive"
+  },
+  "physicalInformation": {
+    "race": "Jötunn (Animal Giant)",
+    "gender": "Male"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/J%C3%B6rmungandr"
+}

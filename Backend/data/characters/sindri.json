@@ -1,0 +1,28 @@
+{
+  "name": "Sindri",
+  "description": "Sindri, also known as Eitri, is a supporting character in both God of War (2018), and God of War Ragnarök. He is introduced as a Dwarf working alongside his brother, Brok. The pair were responsible for forging Thor's hammer, Mjölnir, and Kratos' Leviathan Axe, which formerly belonged to Laufey the Just.\nSindri and Brok aid Kratos and Atreus during their adventure. In their forge, the brothers can also improve the weapons and equipment of the Spartan and his son, as long as they are given the necessary materials.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/c/ce/Sindri_profile.png/revision/latest/scale-to-width-down/239?cb=20240225234643",
+  "biographicalInformation": {
+    "birthplace": "Niðavellir, Svartalfheim",
+    "location": [
+      "Svartalfheim (formerly)",
+      "Vanaheim (temporarily)",
+      "Realm Between Realms (formerly)",
+      "Unknown"
+    ],
+    "age": "+200",
+    "citizenship": "Dwarf",
+    "nationality": "Norse",
+    "status": "Alive"
+  },
+  "physicalInformation": {
+    "race": "Dwarf",
+    "gender": "Male",
+    "hair_colour": "Brunet",
+    "hair_style": "Ponytail",
+    "eyebrow_color": "Brunet",
+    "beard_color": "Brunet",
+    "skin_colour": "Swarthy"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Sindri"
+}

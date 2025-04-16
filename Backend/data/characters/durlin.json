@@ -1,0 +1,22 @@
+{
+  "name": "Durlin",
+  "description": "Durlin is a dwarf and an official in Svartalfheim. He was also a former rebel leader, who, alongside Laufey, led a failed coup against the Aesir, in which he was severely punished by Heimdall. He has a pet Kraken named Dínner.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/3/30/Durlin_profile_full.png/revision/latest/scale-to-width-down/268?cb=20240225233831",
+  "biographicalInformation": {
+    "birthplace": "Niðavellir, Svartalfheim (presumably)",
+    "location": "Niðavellir, Svartalfheim",
+    "citizenship": "Dwarf",
+    "nationality": "Norse",
+    "status": "Alive"
+  },
+  "physicalInformation": {
+    "race": "Dwarf",
+    "gender": "Male",
+    "hair_colour": "Brunet (Graying)",
+    "hair_style": "Scruffy (receding)",
+    "eyebrow_color": "Brunet",
+    "beard_color": "Brunet",
+    "skin_colour": "Swarthy"
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Durlin"
+}

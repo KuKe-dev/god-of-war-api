@@ -1,0 +1,18 @@
+{
+  "name": "Otr",
+  "description": "\nOtr is one of the three dragons captured by the Dwarf King Mótsognir.",
+  "image": "https://static.wikia.nocookie.net/godofwar/images/7/73/God_of_War_20180812151000.jpg/revision/latest/scale-to-width-down/268?cb=20180817182649",
+  "biographicalInformation": {
+    "birthplace": "Svartalfheim",
+    "location": "Midgard",
+    "citizenship": "Dwarf",
+    "status": "Alive"
+  },
+  "physicalInformation": {
+    "race": [
+      "Dwarf (formerly)",
+      "Dragon"
+    ]
+  },
+  "wiki": "https://godofwar.fandom.com/wiki/Otr"
+}
