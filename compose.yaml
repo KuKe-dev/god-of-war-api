@@ -8,7 +8,7 @@ services:
     ports:
       - 5173:5173
     environment:
-      VITE_BACKEND_URL: https://fictional-eureka-7vp5v496qqwrfx45v-1234.app.github.dev/
+      VITE_BACKEND_URL: https://localhost:1234/
     
     develop:
       watch:

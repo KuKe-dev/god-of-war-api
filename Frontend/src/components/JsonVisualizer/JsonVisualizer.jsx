@@ -7,7 +7,7 @@ import Button from '../ui/Button';
 
 export function JsonVisualizer() {
 
-    const serverUrl = import.meta.env.VITE_BACKEND_URL || 'http://localhost:3000/api/';
+    const serverUrl = import.meta.env.VITE_BACKEND_URL || 'http://localhost:1234/';
     console.log(serverUrl);
     const [jsonData, setJsonData] = useState(null); // Initialize as null or an empty object
     const [jsonVisualizerValue, setJsonVisualizerValue] = useState(
@@ -17,10 +17,8 @@ export function JsonVisualizer() {
     function fetchJson(jsonFile) {
     fetch(serverUrl + jsonFile, {
         method: 'GET',
-        mode: 'no-cors', 
         headers: {
         'Content-Type': 'application/json',
-        "Access-Control-Allow-Origin": "*",
         },
     })
         .then((response) => {

@@ -9,12 +9,6 @@ export default defineConfig({
     watch: {
       usePolling: true,  // Necesario para Docker en algunos sistemas
     },
-    proxy: {
-      '/api': {
-        target: 'https://fictional-eureka-7vp5v496qqwrfx45v-1234.app.github.dev',
-        changeOrigin: true,
-        rewrite: (path) => path.replace(/^\/api/, '')
-      }
-    }
+    
   },
 })
