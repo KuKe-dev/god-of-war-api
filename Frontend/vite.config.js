@@ -9,11 +9,12 @@ export default defineConfig({
     watch: {
       usePolling: true,  // Necesario para Docker en algunos sistemas
     },
-    cors: {
-      origin: '*', // o especifica dominios permitidos ['http://localhost:3000', 'https://tudominio.com']
-      methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
-      preflightContinue: false,
-      optionsSuccessStatus: 204
+    proxy: {
+      '/api': {
+        target: 'https://fictional-eureka-7vp5v496qqwrfx45v-1234.app.github.dev',
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/api/, '')
+      }
     }
   },
 })

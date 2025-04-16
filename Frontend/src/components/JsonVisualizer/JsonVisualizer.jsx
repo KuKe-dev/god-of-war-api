@@ -17,8 +17,10 @@ export function JsonVisualizer() {
     function fetchJson(jsonFile) {
     fetch(serverUrl + jsonFile, {
         method: 'GET',
+        mode: 'cors', 
         headers: {
         'Content-Type': 'application/json',
+        'Accept': 'application/json'
         },
     })
         .then((response) => {
