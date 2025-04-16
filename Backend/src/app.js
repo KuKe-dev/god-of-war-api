@@ -24,6 +24,9 @@ app.get('/characters', (req, res) => {
         });
 
         // Set the Content-Type header to text/plain
+        res.setHeader('Access-Control-Allow-Origin', '*');
+        res.setHeader('Access-Control-Allow-Methods', 'GET, POST, OPTIONS');
+        res.setHeader('Access-Control-Allow-Headers', 'Content-Type');
         res.set('Content-Type', 'application/json');
 
         // Join the URLs with newlines and send the response

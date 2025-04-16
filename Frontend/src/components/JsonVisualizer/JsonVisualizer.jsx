@@ -17,7 +17,7 @@ export function JsonVisualizer() {
     function fetchJson(jsonFile) {
     fetch(serverUrl + jsonFile, {
         method: 'GET',
-        mode: 'cors', 
+        mode: 'no-cors', 
         headers: {
         'Content-Type': 'application/json',
         "Access-Control-Allow-Origin": "*",
