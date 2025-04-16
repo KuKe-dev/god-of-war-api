@@ -9,5 +9,11 @@ export default defineConfig({
     watch: {
       usePolling: true,  // Necesario para Docker en algunos sistemas
     },
+    cors: {
+      origin: '*', // o especifica dominios permitidos ['http://localhost:3000', 'https://tudominio.com']
+      methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
+      preflightContinue: false,
+      optionsSuccessStatus: 204
+    }
   },
 })
