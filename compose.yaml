@@ -1,0 +1,43 @@
+version: '3.8'
+
+services:
+  web:
+    depends_on:
+      - server
+    build: ./Frontend
+    ports:
+      - 5173:5173
+    environment:
+      VITE_BACKEND_URL: http://localhost:1234/
+    
+    develop:
+      watch:
+        - path: ./Frontend/package.json
+          action: rebuild
+        - path: ./Frontend/package-lock.json
+          action: rebuild
+        - path: ./Frontend
+          target: /app
+          action: sync
+  
+  server:
+    build: ./Backend
+    ports:
+      - 1234:1234
+    environment:
+      PORT: 1234
+    
+    develop:
+      watch:
+        - path: ./Backend/package.json
+          action: rebuild
+        - path: ./Backend/package-lock.json
+          action: rebuild
+        - path: ./Backend
+          target: /app
+          action: sync
+    volumes:
+      - characters:/characters
+
+volumes:
+  characters:
