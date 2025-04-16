@@ -1,0 +1,8 @@
+version: "2"
+tunnels:
+  web:
+    addr: 5173
+    proto: http
+  server:
+    addr: 1234
+    proto: http
