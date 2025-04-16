@@ -20,7 +20,7 @@ export function JsonVisualizer() {
         mode: 'cors', 
         headers: {
         'Content-Type': 'application/json',
-        'Accept': 'application/json'
+        "Access-Control-Allow-Origin": "*",
         },
     })
         .then((response) => {
