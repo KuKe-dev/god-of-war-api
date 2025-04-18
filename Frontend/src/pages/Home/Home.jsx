@@ -9,7 +9,7 @@ export default function Home() {
                 <h1>God Of Api War</h1>
                 <h6 className='font-gow'>All the information you need to know about God of War</h6>
                 
-                <div id='toggle-switch-json' style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}><p>Json</p><ToggleSwitch checked="true"/><p>Styled</p></div>
+                <div aria-hidden="true" aria-label="Toggle between json and styled" id='toggle-switch-json' style={{display: 'flex', alignItems: 'center', justifyContent: 'center'}}><p>Json</p><ToggleSwitch checked="true"/><p>Styled</p></div>
             <JsonVisualizer />
         </>
     );
