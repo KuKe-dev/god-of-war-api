@@ -131,7 +131,7 @@ return (
                     padding: "8px 15px 8px 16px",
                 }}
                 src={ jsonData && jsonData.error ? {"Wrong_Path":"Try another path"} :
-                    jsonData ? jsonData : ['Loading...']} />
+                    jsonData ? jsonData : ['Loading...(this might take 15-20 seconds)']} />
             </div>
 
             <div id='json-visualizer-styled' style={{width: "100%", backgroundColor: "rgb(var(--red-c) / 5%)", padding: "15px"}}>
@@ -182,7 +182,7 @@ return (
                 </article>
                 </>
                 :
-                <h2>Loading...</h2>}
+                <div style={{width: "100%", display: "flex", alignItems: "center", justifyContent: "center", flexDirection: "column", gap: "10px"}}><h2 style={{display:"inline"}}>Loading...</h2><h4 className='font-normal text-gold' style={{display:"inline"}}>(this might take 15-20 seconds)</h4></div>}
             </div>
 
             <footer style={{width: "100%",marginTop: "20px", display: "flex", alignItems: "flex-end", justifyContent: "flex-end"}}>
